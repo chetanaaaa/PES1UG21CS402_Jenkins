@@ -1,11 +1,12 @@
-//File: hello.cpp
+// File: hello.cpp
 #include <iostream>
 using namespace std;
 
-int main(void) {
+int main(void)
+{
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
-  cout<<"PES1UG21CS402-ChetanaP";
+  cout << "PES1UG21CS402 is my SRN";
   cout << "I have successfully built and run\n";
   return 0;
 }
